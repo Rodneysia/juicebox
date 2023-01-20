@@ -137,7 +137,6 @@ async function getPostsByUser(userId) {
 
 
 
-
 module.exports = {  
   client,
   createUser,
